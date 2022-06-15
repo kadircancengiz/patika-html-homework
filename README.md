@@ -1,5 +1,5 @@
 # patika-html-homework
-<p> I finished HTML courses on Patika.dev. This is my first HTML project. I used what I learned.
+<p> I finished HTML courses on www.Patika.dev. This is my first HTML project. I used what I learned.
 </p> <br>
 
 <p>
